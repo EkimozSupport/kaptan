@@ -3,7 +3,7 @@
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 
 <p align="center">
-  <a href="https://github.com/LushaiMusic/VCsMusicBot">
+  <a href="https://github.com/EkimozSupport/kaptanı">
      <img height="30px" src="https://img.shields.io/badge/Group%20Music%20Bot-red?style=for-the-badge&logo=github">
   </a>
 </p>
@@ -37,7 +37,7 @@ Click the below button to watch the video tutorial on deploying
 
 ### Deploy To Heroku 📡</h4>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/LushaiMusic/VCsMusicBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/EkimozSupport/kaptan"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
 
 ###  GET STRING SESSION FROM REPL RUN
 
@@ -46,13 +46,13 @@ Click the below button to watch the video tutorial on deploying
 ### Deploy to VPS 🏃
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/LushaiMusic/VCsMusicBot
+$ git clone https://github.com/EkimozSupport/kaptan
 $ cd VCsMusicBot
 # Upgrade sources
 # Install All Requirements 
 $ pip3 install -r requirements.txt
 # Fork This Repo and fill local.env and config.py both with your own values.Then Start The Bot
-$ python3 -m VCsMusicBot
+$ python3 -m Solofej
 ```
 
 ### Features ✅
