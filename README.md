@@ -3,13 +3,13 @@
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 
 <p align="center">
-  <a href="https://github.com/EkimozSupport/kaptanı">
+  <a href="https://github.com/EkimozSupport/kaptan">
      <img height="30px" src="https://img.shields.io/badge/Group%20Music%20Bot-red?style=for-the-badge&logo=github">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://telegra.ph/file/e8cc2e942567da80cab45.jpg">
+  <a href="https://telegra.ph/file/7ab86333fcc53f7f50d8f.jpg">
      <img height="200px" src="https://telegra.ph/file/e8cc2e942567da80cab45.jpg">
   </a>
 </p>
