@@ -1,4 +1,4 @@
-<h1 align="centre">VCsMusicBot v5.0</h1>
+<h1 align="centre">SolofejMuzikBot v5.0</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 
